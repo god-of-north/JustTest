@@ -1,2 +1,5 @@
 logs/
 ign.txt
+__pycache__/
+ *.pyc
+
